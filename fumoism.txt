@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I added this line in thirdBranch
+=======
+this line was added in backupBranch
+>>>>>>> backupBranch
