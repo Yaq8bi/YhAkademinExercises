@@ -43,5 +43,6 @@ The real number is a number that exist in real world.
 ## What is a prime number?
 
 ## What is RAM(Random Access Memory)?
+Its a type of storage that talks to the CPU, the RAM can only hold data as long as there is current going through it. The CPU requests and takes data from the RAM. This means that RAM is temporary storage, not permanent.
 
 ## What is ROM(Read-Only Memory)?
