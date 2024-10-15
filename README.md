@@ -27,6 +27,7 @@ It's a unit for the electrical power. (Volt, V, U)
 The pressure of electricity.
 
 ## What is current? What is the unit of current?
+An ampere, or amp, is the international unit used for measuring current. It expresses the quantity of electrons flowing past a point in a circuit over a given time.
 
 ## What is resistance? What is the unit of resistance?
 In electrical terms. - It's the ratio between voltage (volt) applied to the flowing current (amp). (Ohm, OMEGA symbol, Ω, R)
