@@ -3,7 +3,7 @@
 Answer each question here under the question.
 
 ## What is a programming language?
-
+A programming language is languege use by editors to write binary code that pc can read in human tongue
 ## What is a compiler?
 
 ## What is a debugger?
