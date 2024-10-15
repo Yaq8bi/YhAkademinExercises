@@ -49,3 +49,4 @@ The real number is a number that exist in real world.
 Its a type of storage that talks to the CPU, the RAM can only hold data as long as there is current going through it. The CPU requests and takes data from the RAM. This means that RAM is temporary storage, not permanent.
 
 ## What is ROM(Read-Only Memory)?
+Its a type of chip that can store 1's and 0's, ussually stores a program a programmer has written for a specific goal. Most commonly an operating system. Which is critical, and can't be altered easily especially by consumers/users.
