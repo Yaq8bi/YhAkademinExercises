@@ -44,6 +44,7 @@ The real number is a number that exist in real world.
 *rational & irrational numbers.
 
 ## What is a prime number?
+A prime number is a number that is above 1, and can only be divided with itself and the number 1 and not whole numbers.
 
 ## What is RAM(Random Access Memory)?
 Its a type of storage that talks to the CPU, the RAM can only hold data as long as there is current going through it. The CPU requests and takes data from the RAM. This means that RAM is temporary storage, not permanent.
