@@ -23,6 +23,7 @@ Answer each question here under the question.
 ## What is the most manufactured device in history?
 
 ## What is an integer number?
+It's a number with no decimals, nor fractals. Only whole numbers in the negatives and positives. 
 
 ## What is a real number?
 
