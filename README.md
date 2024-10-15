@@ -28,6 +28,7 @@ The pressure of electricity.
 ## What is the most manufactured device in history?
 
 ## What is an integer number?
+It's a number with no decimals, nor fractals. Only whole numbers in the negatives and positives. 
 
 ## What is a real number?
 The real number is a number that exist in real world (For example every number above 0 (>))
