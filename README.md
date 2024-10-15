@@ -14,6 +14,7 @@ It's tool that is used to test and find bugs/errors. It allows the programmer to
 ## What is an IDE (Integrated Development Environment)?
 
 ## What does it mean to be a programmer?
+Being a programmer means you have to understand how systems and concepts work. Be creative enough to manipulate data to achieve your desired result using your knowledge.
 
 ## Is C a high level programming language? Why?
 
