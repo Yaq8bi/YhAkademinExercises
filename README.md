@@ -20,6 +20,7 @@ IDEs increase programmer productivity by combining common activities of writing 
 Being a programmer means you have to understand how systems and concepts work. Be creative enough to manipulate data to achieve your desired result using your knowledge.
 
 ## Is C a high level programming language? Why?
+I think we need to first understand the capabilities of C to understand it fully. In my opinion C is a Middle language. Because although it has similarities with the high level languages. This should not surprise us as almost all programming languages was inspired from C as C was and still is widely popular. The why for me considering C as a middle level language is that it has the easy readability like the high level languages, yet still gives the control and manipulation of data that low level languages are known for(such as assembly).
 
 ## What is voltage? What is the unit of voltage?
 It's a unit for the electrical power. (Volt, V, U)
