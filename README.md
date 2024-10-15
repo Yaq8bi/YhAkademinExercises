@@ -5,6 +5,8 @@ Answer each question here under the question.
 ## What is a programming language?
 
 ## What is a compiler?
+It's a program or runtime that translates the written code into machine* code.
+*most of the time, ends up as assembly or byte.
 
 ## What is a debugger?
 
