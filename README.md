@@ -17,6 +17,7 @@ Answer each question here under the question.
 ## What is voltage? What is the unit of voltage?
 
 ## What is current? What is the unit of current?
+An ampere, or amp, is the international unit used for measuring current. It expresses the quantity of electrons flowing past a point in a circuit over a given time.
 
 ## What is resistance? What is the unit of resistance?
 
@@ -25,7 +26,7 @@ Answer each question here under the question.
 ## What is an integer number?
 
 ## What is a real number?
-The real number is a number that exist in real world (For example every number above 0 (>))
+
 ## What is a prime number?
 
 ## What is RAM(Random Access Memory)?
