@@ -9,7 +9,7 @@ Answer each question here under the question.
 ## What is a debugger?
 
 ## What is an IDE (Integrated Development Environment)?
-An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program. IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging.
+
 ## What does it mean to be a programmer?
 
 ## Is C a high level programming language? Why?
@@ -21,7 +21,7 @@ An IDE, or Integrated Development Environment, enables programmers to consolidat
 ## What is resistance? What is the unit of resistance?
 
 ## What is the most manufactured device in history?
-
+The transistor is most manufactured device in history
 ## What is an integer number?
 
 ## What is a real number?
