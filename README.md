@@ -17,6 +17,8 @@ It's a program or runtime that translates the written code into machine* code.
 ## Is C a high level programming language? Why?
 
 ## What is voltage? What is the unit of voltage?
+It's a unit for the electrical power. (Volt, V, U)
+The pressure of electricity.
 
 ## What is current? What is the unit of current?
 
