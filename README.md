@@ -7,6 +7,7 @@ Answer each question here under the question.
 ## What is a compiler?
 
 ## What is a debugger?
+It's tool that is used to test and find bugs/errors. It allows the programmer to monitor and see breakpoints.
 
 ## What is an IDE (Integrated Development Environment)?
 
