@@ -21,11 +21,11 @@ Answer each question here under the question.
 ## What is resistance? What is the unit of resistance?
 
 ## What is the most manufactured device in history?
-The transistor is most manufactured device in history
+
 ## What is an integer number?
 
 ## What is a real number?
-
+The real number is a number that exist in real world (For example every number above 0 (>))
 ## What is a prime number?
 
 ## What is RAM(Random Access Memory)?
