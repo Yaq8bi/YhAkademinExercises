@@ -19,6 +19,8 @@ Answer each question here under the question.
 ## What is current? What is the unit of current?
 
 ## What is resistance? What is the unit of resistance?
+In electrical terms. - It's the ratio between voltage (volt) applied to the flowing current (amp). (Ohm, OMEGA symbol, Ω, R)
+In physical terms - It's how much friction two object glides with each other.
 
 ## What is the most manufactured device in history?
 
